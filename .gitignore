@@ -9,6 +9,8 @@ lib-cov
 ~$*.xlsx
 ~$*.xls
 
+documents/developer_documents/testing_script_generator/GRNsightTestingDocument.md
+
 pids
 logs
 results
@@ -24,3 +26,28 @@ node_modules
 _gh_pages
 
 coverage/
+
+# From https://gist.github.com/kogakure/149016
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.synctex.gz
